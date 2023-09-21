@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqVpAovGbCYygZ51/pM8krn56by8cdEhDVAABjpkMT4E+8bLYyOGNFSjyKOgSX5e+h0NJF8qGjTuNL3KD4fCUQ==",
+  "dgSpecHash": "RR3ieU5Rw7XTvTyrV5rWDZO3+lOrtvCqokdoIaSqHxXR1R4hhgvMb4Qk+Dr+/AVTlVG1TDa4x6AFx0ZaaxJ60w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestProject\\TestProject.csproj",
+  "projectFilePath": "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

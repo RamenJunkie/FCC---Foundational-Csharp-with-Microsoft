@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\TestProject.csproj": {}
+    "C:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\TestProject.csproj": {
+    "C:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestApp\\TestApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "C:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\josh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\Unit02-01-TestProject\\obj\\",
+        "outputPath": "C:\\Users\\josh\\OneDrive\\Code\\Github\\FreeCodeCamp\\Foundational C# with Microsoft\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
